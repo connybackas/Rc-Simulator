@@ -20,6 +20,6 @@ When the user have specifed everything needed for the simulation the simulation 
 
 
 ## My thoughts
-Simulator class and its prompt methods should probably be rewritten in a more dynamic way. E.g. calling the "Console.WriteLine()" call directly complicates a possible future transission to gui application.  
+Simulator class and its prompt methods should probably be rewritten in a more dynamic way. E.g. calling the "Console.WriteLine()" call directly complicates a possible future conversion to gui application.  
 
 Input parsing should probably be handled by another class than the Simulation class entirely.
